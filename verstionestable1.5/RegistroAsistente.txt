@@ -1,0 +1,3 @@
+                                Registro Asistente
+No.Trabajador          Contrasena
+

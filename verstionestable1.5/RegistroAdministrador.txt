@@ -1,0 +1,5 @@
+                            Registro Administrador
+No.Trabajador          Contrasena
+
+admin                pass
+
